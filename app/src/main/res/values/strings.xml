@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MatchMate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ms_profile_match">Profile Matches</string>
+    <string name="ms_accepted">Accepted</string>
+    <string name="ms_rejected">Declined</string>
+
+</resources>

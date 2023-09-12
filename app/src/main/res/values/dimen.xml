@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="cardview_elevation">5dp</dimen>
+
+    <dimen name="cardview_radius">8dp</dimen>
+
+    <dimen name="spacing">14sp</dimen>
+    <dimen name="text_size">28sp</dimen>
+    <dimen name="card_click">35dp</dimen>
+</resources>
